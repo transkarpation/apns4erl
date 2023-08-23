@@ -1,4 +1,4 @@
-{application, apns, [
+{application, apns4erl, [
   {description, "APNs provider for Apple Push Notification services (APNs) in Erlang. It supports the HTTP2 API."},
   {vsn, "2.4.0"},
   {id, "apns4erl"},
